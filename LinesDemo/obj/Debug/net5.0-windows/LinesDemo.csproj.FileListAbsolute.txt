@@ -1,0 +1,57 @@
+D:\Users\Dan\290922_practiceLINES\LinesDemo\LinesDemo\bin\Debug\net5.0-windows\LinesDemo.exe
+D:\Users\Dan\290922_practiceLINES\LinesDemo\LinesDemo\bin\Debug\net5.0-windows\LinesDemo.deps.json
+D:\Users\Dan\290922_practiceLINES\LinesDemo\LinesDemo\bin\Debug\net5.0-windows\LinesDemo.runtimeconfig.json
+D:\Users\Dan\290922_practiceLINES\LinesDemo\LinesDemo\bin\Debug\net5.0-windows\LinesDemo.runtimeconfig.dev.json
+D:\Users\Dan\290922_practiceLINES\LinesDemo\LinesDemo\bin\Debug\net5.0-windows\LinesDemo.dll
+D:\Users\Dan\290922_practiceLINES\LinesDemo\LinesDemo\bin\Debug\net5.0-windows\LinesDemo.pdb
+D:\Users\Dan\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.csproj.GenerateResource.cache
+D:\Users\Dan\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Dan\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.AssemblyInfoInputs.cache
+D:\Users\Dan\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.AssemblyInfo.cs
+D:\Users\Dan\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.csproj.CoreCompileInputs.cache
+D:\Users\Dan\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.dll
+D:\Users\Dan\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\ref\LinesDemo.dll
+D:\Users\Dan\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.pdb
+D:\Users\Dan\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.genruntimeconfig.cache
+D:\Users\Dan\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.Form2.resources
+D:\Users\Dan\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.Form1.resources
+D:\Users\Dan\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.csproj.AssemblyReference.cache
+D:\Users\Dan\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\refint\LinesDemo.dll
+C:\Users\pjslo\source\repos\290922_practiceLINES.rar_pass_123\290922_practiceLINES\290922_practiceLINES\LinesDemo\LinesDemo\bin\Debug\net5.0-windows\LinesDemo.exe
+C:\Users\pjslo\source\repos\290922_practiceLINES.rar_pass_123\290922_practiceLINES\290922_practiceLINES\LinesDemo\LinesDemo\bin\Debug\net5.0-windows\LinesDemo.deps.json
+C:\Users\pjslo\source\repos\290922_practiceLINES.rar_pass_123\290922_practiceLINES\290922_practiceLINES\LinesDemo\LinesDemo\bin\Debug\net5.0-windows\LinesDemo.runtimeconfig.json
+C:\Users\pjslo\source\repos\290922_practiceLINES.rar_pass_123\290922_practiceLINES\290922_practiceLINES\LinesDemo\LinesDemo\bin\Debug\net5.0-windows\LinesDemo.runtimeconfig.dev.json
+C:\Users\pjslo\source\repos\290922_practiceLINES.rar_pass_123\290922_practiceLINES\290922_practiceLINES\LinesDemo\LinesDemo\bin\Debug\net5.0-windows\LinesDemo.dll
+C:\Users\pjslo\source\repos\290922_practiceLINES.rar_pass_123\290922_practiceLINES\290922_practiceLINES\LinesDemo\LinesDemo\bin\Debug\net5.0-windows\LinesDemo.pdb
+C:\Users\pjslo\source\repos\290922_practiceLINES.rar_pass_123\290922_practiceLINES\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.csproj.AssemblyReference.cache
+C:\Users\pjslo\source\repos\290922_practiceLINES.rar_pass_123\290922_practiceLINES\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.Form1.resources
+C:\Users\pjslo\source\repos\290922_practiceLINES.rar_pass_123\290922_practiceLINES\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.Form2.resources
+C:\Users\pjslo\source\repos\290922_practiceLINES.rar_pass_123\290922_practiceLINES\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.csproj.GenerateResource.cache
+C:\Users\pjslo\source\repos\290922_practiceLINES.rar_pass_123\290922_practiceLINES\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjslo\source\repos\290922_practiceLINES.rar_pass_123\290922_practiceLINES\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.AssemblyInfoInputs.cache
+C:\Users\pjslo\source\repos\290922_practiceLINES.rar_pass_123\290922_practiceLINES\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.AssemblyInfo.cs
+C:\Users\pjslo\source\repos\290922_practiceLINES.rar_pass_123\290922_practiceLINES\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.csproj.CoreCompileInputs.cache
+C:\Users\pjslo\source\repos\290922_practiceLINES.rar_pass_123\290922_practiceLINES\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.dll
+C:\Users\pjslo\source\repos\290922_practiceLINES.rar_pass_123\290922_practiceLINES\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\refint\LinesDemo.dll
+C:\Users\pjslo\source\repos\290922_practiceLINES.rar_pass_123\290922_practiceLINES\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.pdb
+C:\Users\pjslo\source\repos\290922_practiceLINES.rar_pass_123\290922_practiceLINES\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.genruntimeconfig.cache
+C:\Users\pjslo\source\repos\290922_practiceLINES.rar_pass_123\290922_practiceLINES\290922_practiceLINES\LinesDemo\LinesDemo\obj\Debug\net5.0-windows\ref\LinesDemo.dll
+C:\Users\pjslo\Downloads\LinesDemo (1)\LinesDemo\bin\Debug\net5.0-windows\LinesDemo.exe
+C:\Users\pjslo\Downloads\LinesDemo (1)\LinesDemo\bin\Debug\net5.0-windows\LinesDemo.deps.json
+C:\Users\pjslo\Downloads\LinesDemo (1)\LinesDemo\bin\Debug\net5.0-windows\LinesDemo.runtimeconfig.json
+C:\Users\pjslo\Downloads\LinesDemo (1)\LinesDemo\bin\Debug\net5.0-windows\LinesDemo.runtimeconfig.dev.json
+C:\Users\pjslo\Downloads\LinesDemo (1)\LinesDemo\bin\Debug\net5.0-windows\LinesDemo.dll
+C:\Users\pjslo\Downloads\LinesDemo (1)\LinesDemo\bin\Debug\net5.0-windows\LinesDemo.pdb
+C:\Users\pjslo\Downloads\LinesDemo (1)\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.csproj.AssemblyReference.cache
+C:\Users\pjslo\Downloads\LinesDemo (1)\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.Form1.resources
+C:\Users\pjslo\Downloads\LinesDemo (1)\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.Form2.resources
+C:\Users\pjslo\Downloads\LinesDemo (1)\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.csproj.GenerateResource.cache
+C:\Users\pjslo\Downloads\LinesDemo (1)\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pjslo\Downloads\LinesDemo (1)\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.AssemblyInfoInputs.cache
+C:\Users\pjslo\Downloads\LinesDemo (1)\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.AssemblyInfo.cs
+C:\Users\pjslo\Downloads\LinesDemo (1)\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.csproj.CoreCompileInputs.cache
+C:\Users\pjslo\Downloads\LinesDemo (1)\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.dll
+C:\Users\pjslo\Downloads\LinesDemo (1)\LinesDemo\obj\Debug\net5.0-windows\refint\LinesDemo.dll
+C:\Users\pjslo\Downloads\LinesDemo (1)\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.pdb
+C:\Users\pjslo\Downloads\LinesDemo (1)\LinesDemo\obj\Debug\net5.0-windows\LinesDemo.genruntimeconfig.cache
+C:\Users\pjslo\Downloads\LinesDemo (1)\LinesDemo\obj\Debug\net5.0-windows\ref\LinesDemo.dll
